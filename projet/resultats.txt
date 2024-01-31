@@ -1,0 +1,58 @@
+/Marathon/2009/inputs/radix-generate.c :       40
+/Marathon/2010/inputs/quicksort-generator.c :       40
+/Marathon/2010/quicksort/quicksort.c :       41 ------ choisi 
+/Marathon/2011/inputs/shellsort-generator.c :       42
+/Marathon/2010/inputs/matrix-generator.c :       50
+/Marathon/2010/inputs/smooth-generator.c :       50
+/Marathon/2011/inputs/mst-generator.c :       52
+/Marathon/2012/inputs/haarGenerator.c :       53
+/Marathon/2012/bucketsort/bucketsort.c :       54
+/Marathon/2011/shellsort/main.c :       56
+/Marathon/2009/fib/fib.c :       57
+/Marathon/2011/fib/fib.c :       57 ------ choisi 
+/Marathon/2012/bucketsort/main.c :       61
+/Marathon/2010/inputs/gauss-generator.c :       63
+/Marathon/2010/smooth/smooth.c :       66
+/Marathon/2012/knapsack/knapsack.c :       67 ------ choisi 
+/Marathon/2012/friendly/friendly.c :       69
+/Marathon/2017/kmeans/kmeans.c :       73
+/Marathon/2011/pi/main.c :       74
+/Marathon/2011/shellsort/shellsort.c :       78
+/Marathon/2020/primes/primetest.c :       79
+/Marathon/2018/cholesky/cholesky.c :       83
+/Marathon/2010/tsp/tsp.c :       84
+/Marathon/2013/gauss/gauss.c :       91 ------ choisi 
+/Marathon/2014/sort/sort.c :       91
+/Marathon/2010/gauss/gauss.c :       92
+/Marathon/2011/mst/main.c :       93
+/Marathon/2018/average/amd.c :       93
+/Marathon/2019/password/password_bf.c :       95
+/Marathon/2012/3sat/3sat.c :       97
+/Marathon/2017/eternity/checker.c :      100
+/Marathon/2017/transitive_closure/transitive_closure.c :      103
+/Marathon/2012/haar/haar.c :      104
+/Marathon/2020/graph/graph.c :      115
+/Marathon/2020/jacobi/jacobi-solver.c :      117
+/Marathon/2009/3sat/3sat.c :      118
+/Marathon/2014/dijkstra/dijkstra.c :      120 ------ choisi 
+/Marathon/2011/pfs/main.c :      126 ------ choisi 
+/Marathon/2016/life/life.c :      127
+/Marathon/2021/jacobi/laplace_seq.c :      132
+/Marathon/2015/bitonic/bitonic.c :      133
+/Marathon/2017/eternity/eternity.c :      137
+/Marathon/2014/tsp/tsp.c :      140
+/Marathon/2019/fdm/mdf.c :      149
+/Marathon/2009/dna/dna.c :      156
+/Marathon/2014/polygon_cut/polygon_cut.c :      157
+/Marathon/2015/km/km.c :      161
+/Marathon/2019/hopbyte/hopbyte.c :      162
+/Marathon/2015/nbody/nbody.c :      165
+/Marathon/2013/lcs/lcs.c :      170
+/Marathon/2015/LU/LU.c :      182
+/Marathon/2020/quicksort/quicksort.c :      194
+/Marathon/2021/metrics/est_matriz_seq.c :      198
+/Marathon/2021/johnson/johnson.c :      214
+/Marathon/2018/himeno/himeno.c :      222
+/Marathon/2021/sokoban/sokoban.c :      363
+/Marathon/2016/sudokount/sudokount.c :      369
+/Marathon/2019/galaxy/barnes_hut.c :      421
