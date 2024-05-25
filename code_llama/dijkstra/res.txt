@@ -1,0 +1,24 @@
+1
+1073741825.86
+
+Kernel executed in 0.001069 seconds.
+2
+1073741825.86
+
+Kernel executed in 0.000653 seconds.
+4
+1073741825.86
+
+Kernel executed in 0.000719 seconds.
+8
+1073741825.86
+
+Kernel executed in 0.000911 seconds.
+16
+1073741825.86
+
+Kernel executed in 0.000928 seconds.
+20
+1073741825.86
+
+Kernel executed in 0.000939 seconds.

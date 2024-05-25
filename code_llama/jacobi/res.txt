@@ -1,0 +1,16 @@
+Running laplace_seq with OMP_NUM_THREADS=1
+Running laplace_seq with OMP_NUM_THREADS=2
+
+Kernel executed in 103.223389 seconds with 15000 iterations.
+Running laplace_seq with OMP_NUM_THREADS=4
+
+Kernel executed in 54.728540 seconds with 15000 iterations.
+Running laplace_seq with OMP_NUM_THREADS=8
+
+Kernel executed in 28.743887 seconds with 15000 iterations.
+Running laplace_seq with OMP_NUM_THREADS=16
+
+Kernel executed in 16.418516 seconds with 15000 iterations.
+Running laplace_seq with OMP_NUM_THREADS=20
+
+Kernel executed in 13.337138 seconds with 15000 iterations.
